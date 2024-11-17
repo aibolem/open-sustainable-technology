@@ -2245,6 +2245,7 @@ parameter values.
 - [One4All](https://github.com/Moore-Institute-4-Plastic-Pollution-Res/One4All) - R package for data validation and visualization with a focus on microplastic data.
 - [gw-conditions](https://github.com/DOI-USGS/gw-conditions) - A visualization showing groundwater conditions as little peaks above or below their normal values.
 - [EPyT-Flow](https://github.com/WaterFutures/EPyT-Flow) - Provides easy access to water distribution network simulations with a high level interface for generation of hydraulic and water quality scenario data.
+- [DroneWQ](https://github.com/aewindle110/DroneWQ) - A Python package that can be used to analyze multispectral data collected from a drone to derive ocean color radiometry and water quality properties.
 
 ### Soil and Land
 - [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250m) - Global Spatial predictions of soil properties and classes at 250 m resolution.
