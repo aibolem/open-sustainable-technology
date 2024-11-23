@@ -15,7 +15,4 @@ hide:
   }
 </style>
 
-<iframe src="https://report.opensustain.tech/chapters/index.html"  
-class="iframestyle"
-    
-</iframe>
+<iframe src="https://report.opensustain.tech/chapters/index.html" class="iframestyle"</iframe>
